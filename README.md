@@ -1,8 +1,8 @@
-## About
+# About
 I’m a Computer Engineering student at the University of Illinois Urbana-Champaign
 with interests in systems, backend development, and applied software engineering.
 
-# Personal Portfolio
+## Personal Portfolio
 
 This repository contains the source code for my personal portfolio website.
 
