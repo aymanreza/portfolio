@@ -10,7 +10,7 @@ function App() {
     <>
       <HashRouter>
         <Routes>
-          <Route index element = {<Home />}/>
+          <Route path= '/' element = {<Home />}/>
           <Route path ='/experience' element = {<Experience />}/>
           <Route path = '/myself' element = {<Myself />}/>
           <Route path = '*' element = {<NotFound />}/>
