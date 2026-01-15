@@ -40,7 +40,7 @@ export const Layout = ({ children }: LayoutProps) => {
             <footer className="border-t border-gray-200 py-6 mt-12">
                 <div className="flex justify-center gap-6 text-gray-600">
                     <a
-                        href="https://github.com/yourusername"
+                        href="https://github.com/aymanreza"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-black transition"
@@ -50,7 +50,7 @@ export const Layout = ({ children }: LayoutProps) => {
                     </a>
 
                     <a
-                        href="https://linkedin.com/in/yourusername"
+                        href="https://linkedin.com/in/aymanreza11"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-black transition"
@@ -60,7 +60,7 @@ export const Layout = ({ children }: LayoutProps) => {
                     </a>
 
                     <a
-                        href="https://instagram.com/yourusername"
+                        href="https://instagram.com/aymanreza_"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="hover:text-black transition"
