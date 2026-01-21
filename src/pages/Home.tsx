@@ -1,6 +1,6 @@
 import { Layout } from "../components/Layout"
 import me from "../assets/me.png"
-import resume from "../assets/resume.pdf"
+import resume from "../assets/ResumeAymanRezaDataScience.pdf"
 
 
 export const Home = () => {
